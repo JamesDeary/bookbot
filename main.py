@@ -25,7 +25,7 @@ def main():
     #print(converted_dict)
 
     # begin printing report
-    print(f"--- Being report of {path_to_file} ---")
+    print(f"--- Begin report of {path_to_file} ---")
     print(f"{total_words} words found in the document")
     print("")
     for a in converted_dict:
